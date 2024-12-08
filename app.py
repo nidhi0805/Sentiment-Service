@@ -16,7 +16,7 @@ def home():
     </head>
     <body>
         <h1>Sentiment Analysis Service</h1>
-        <p>Created by Nidhi Patel [Your Name]</p>
+        <p>Created by Nidhi Patel</p>
         <p>Use the <a href="/predict">/predict</a> endpoint to get sentiment analysis predictions.</p>
         <form action="/submit" method="post">
             <label for="text">Enter text for sentiment analysis:</label><br>
